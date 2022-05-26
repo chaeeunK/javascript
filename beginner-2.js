@@ -55,4 +55,4 @@ const z = "나는";
 const Z = "입니다.";
 
 console.log( z+ name + Z );//나는chaeeun입니다.
-console.log( z + age + "살" + Z );//나는 24살입니다.
+console.log( z + age + "살" + Z );//나는 24살입니다. 
